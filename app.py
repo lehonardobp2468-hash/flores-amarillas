@@ -39,16 +39,16 @@ st.markdown("""
 
 # Título
 st.markdown("<h1>while(distancia > 0) { amor++; } 🌻</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; font-family: Courier New;'>Para la chica más linda, sin importar los kilómetros de distancia.</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-family: Courier New;'>Para la chica más lindaaa, para nada loquitaa, obvio, seriedad.</p>", unsafe_allow_html=True)
 st.write("")
 
 # Bloque de código construido con HTML para garantizar el fondo oscuro y letras claras
 codigo_html = """
 <div style="background-color: #1e293b; padding: 20px; border-radius: 10px; border-left: 5px solid #facc15; font-family: 'Courier New', monospace; font-size: 15px; line-height: 1.6; overflow-x: auto;">
     <span style="color: #94a3b8;"># Módulo de conexión a distancia</span><br>
-    <span style="color: #f472b6;">ciudad_ella</span> <span style="color: #e2e8f0;">=</span> <span style="color: #a3e635;">"Lima"</span><br>
-    <span style="color: #f472b6;">ciudad_yo</span> <span style="color: #e2e8f0;">=</span> <span style="color: #a3e635;">"Cusco"</span><br>
-    <span style="color: #f472b6;">estado</span> <span style="color: #e2e8f0;">=</span> <span style="color: #a3e635;">"Pendiente de ti, amor"</span><br>
+    <span style="color: #f472b6;">ciudad_ella</span> <span style="color: #e2e8f0;">=</span> <span style="color: #a3e635;">"Lima puaj"</span><br>
+    <span style="color: #f472b6;">ciudad_yo</span> <span style="color: #e2e8f0;">=</span> <span style="color: #a3e635;">"Huancayo"</span><br>
+    <span style="color: #f472b6;">estado</span> <span style="color: #e2e8f0;">=</span> <span style="color: #a3e635;">"Pendiente de ti, amooor"</span><br>
     <span style="color: #38bdf8;">print</span><span style="color: #e2e8f0;">(</span><span style="color: #a3e635;">"¡Te extrañoooo, corazoooom!"</span><span style="color: #e2e8f0;">)</span>
 </div>
 """
@@ -92,5 +92,5 @@ if st.button("Haz clic para recibir tus flores amarillas 🌻", use_container_wi
     st.markdown(generar_lluvia_flores(), unsafe_allow_html=True)
     time.sleep(0.5)
     
-    st.success("¡Ramo de flores virtuales compilado y entregado con éxito en el primer intento! 🌻💛")
-    st.markdown("<h3 style='text-align: center; color: #facc15; font-family: Courier New;'>✨ A pesar de la distancia, mi código siempre compila hacia ti. ✨</h3>", unsafe_allow_html=True)
+    st.success("¡Te extrañoo, estoy seguro de que ya nos veremoos, te quieroamo moor! 🌻💛")
+    st.markdown("<h3 style='text-align: center; color: #facc15; font-family: Courier New;'>💛 Es un detallitoo espero te gusteee, te adorooo muack 💛</h3>", unsafe_allow_html=True)
